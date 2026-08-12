@@ -469,6 +469,22 @@
       <g:shipping_label>agir_batarya</g:shipping_label>
     </item>
     <item>
+      <g:id>byd-hvm-module-561a7caa</g:id>
+      <g:title>BYD HVM Module 2.76 kWh 51.2V</g:title>
+      <g:description>BYD HVM Module 2.76 kWh 51.2V</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/byd-lityum-pil/byd-hvm-module-2-76-kwh</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2039/big_byd-hvm-module.jpg</g:image_link>
+      <g:price>68076.56 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>BYD</g:brand>
+      <g:mpn>BYD-HVM-MODULE</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
+      <g:shipping_weight>50 kg</g:shipping_weight>
+      <g:shipping_label>agir_batarya</g:shipping_label>
+    </item>
+    <item>
       <g:id>tsm-1489-3f5bca89</g:id>
       <g:title>BYD LV FLEX LITE 5kWh Battery – 5 kWh Lityum Düsük Voltaj Enerji Depolama Bataryasi</g:title>
       <g:description>BYD FLEX 5, 5kWh düşük voltaj lityum batarya, kompakt tasarım ve modüler yapısıyla ev ve küçük ticari GES’ler için akıllı enerji depolama!</g:description>
@@ -7813,6 +7829,22 @@
       <g:shipping_label>agir_inverter</g:shipping_label>
     </item>
     <item>
+      <g:id>s5-gc110k-5g-f08188b1</g:id>
+      <g:title>Solis 110 kW Three Phase String Inverter</g:title>
+      <g:description>Solis 110 kW Tri Faz (Üç Faz) On-Grid String İnverter, güneş panellerinden üretilen DC elektriği yüksek verimle AC elektriğe çevirerek şebekeye besler. Ticari…</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solis/solis-110-kw-tri-faz-on-grid-inverter</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2037/big_solis-gc-110k.jpg</g:image_link>
+      <g:price>225817.38 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Solis</g:brand>
+      <g:mpn>S5-GC110K-5G</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
+      <g:shipping_weight>15 kg</g:shipping_weight>
+      <g:shipping_label>agir_inverter</g:shipping_label>
+    </item>
+    <item>
       <g:id>tsm-1422-9ba29891</g:id>
       <g:title>Solis 110K 5G PRO</g:title>
       <g:description>80-110kW İnverter, Fotovoltaik Sistem İnverteri, Güneş Paneli İnverteri, Yenilenebilir Enerji,</g:description>
@@ -7871,6 +7903,22 @@
       <g:condition>new</g:condition>
       <g:brand>Solis</g:brand>
       <g:mpn>S6-EH3P12K02-NV-YD-L</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
+      <g:shipping_weight>15 kg</g:shipping_weight>
+      <g:shipping_label>agir_inverter</g:shipping_label>
+    </item>
+    <item>
+      <g:id>s6-gc125k-3681acef</g:id>
+      <g:title>Solis 125 kW Three Phase String Inverter</g:title>
+      <g:description>Solis 125 kW Tri Faz (Üç Faz) On-Grid String İnverter, güneş panellerinden üretilen DC elektriği yüksek verimle AC elektriğe çevirerek şebekeye besler. Ticari…</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solis/solis-125-kw-tri-faz-on-grid-inverter</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2036/big_solis-gc-125k.jpg</g:image_link>
+      <g:price>264528.92 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Solis</g:brand>
+      <g:mpn>S6-GC125K</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
       <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
       <g:shipping_weight>15 kg</g:shipping_weight>
@@ -8335,6 +8383,22 @@
       <g:condition>new</g:condition>
       <g:brand>Solis</g:brand>
       <g:mpn>Solis-3P8K-4G-DC</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
+      <g:shipping_weight>15 kg</g:shipping_weight>
+      <g:shipping_label>agir_inverter</g:shipping_label>
+    </item>
+    <item>
+      <g:id>s5-gc80k-9d2c28d6</g:id>
+      <g:title>Solis 80 kW Three Phase String Inverter</g:title>
+      <g:description>Solis 80 kW Tri Faz (Üç Faz) On-Grid String İnverter, güneş panellerinden üretilen DC elektriği yüksek verimle AC elektriğe çevirerek şebekeye besler. Ticari…</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solis/solis-80-kw-tri-faz-on-grid-inverter</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2038/big_solis-gc-80k.jpg</g:image_link>
+      <g:price>177427.94 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Solis</g:brand>
+      <g:mpn>S5-GC80K</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
       <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
       <g:shipping_weight>15 kg</g:shipping_weight>
