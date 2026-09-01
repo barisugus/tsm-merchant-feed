@@ -273,8 +273,8 @@
       <g:shipping_label>agir_panel</g:shipping_label>
       <g:shipping>
         <g:country>TR</g:country>
-        <g:service>İzmir depodan teslim (kargo yapılmaz)</g:service>
-        <g:price>0 TRY</g:price>
+        <g:service>Standart Kargo (alıcı öder)</g:service>
+        <g:price>910 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -6620,27 +6620,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>tsm-1950-c06542c6</g:id>
-      <g:title>Solinved 10.2 kWh HVS Serisi Batterybox Premium Akü</g:title>
-      <g:description>Solinved 10.2 kWh HVS Serisi Batterybox Premium Akü – LiFePO4 lityum batarya, 10.2 kWh. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-10-2-kwh-hvs-serisi-batterybox-premium-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1950/big_solinved-10-2-kwh-hvs-serisi-batterybox-premium-aku.png</g:image_link>
-      <g:price>290030.02 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1950</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>slvm1000-904dd839</g:id>
       <g:title>Solinved 1000W Modified Sine Inverter 12V</g:title>
       <g:description>Solinved 1000 W modifiye sinüs inverter (12 V): aküdeki DC enerjiyi 220 V AC&apos;ye çevirir. Aydınlatma, ısıtıcı ve basit motorlu yükler için ekonomik çözüm.</g:description>
@@ -6722,27 +6701,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-xh-896325f0</g:id>
-      <g:title>Solinved 102.4V 100Ah Lityum Duvar Tipi Batarya</g:title>
-      <g:description>Solinved 102,4 V 100 Ah duvar tipi lityum batarya: duvara monte edilen enerji depolama ünitesi. Hibrit ve off-grid sistemlerde kullanılır.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-102-4v-100ah-lityum-duvar-tipi-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1739/big_sol-xh.jpg</g:image_link>
-      <g:price>107187.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-XH</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -6848,195 +6806,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>825 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1955-9c8905dd</g:id>
-      <g:title>Solinved 12.8 kWh HVS Serisi Batterybox Premium Akü</g:title>
-      <g:description>Solinved 12.8 kWh HVS Serisi Batterybox Premium Akü – LiFePO4 lityum batarya, 12.8 kWh. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-12-8-kwh-hvs-serisi-batterybox-premium-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1955/big_solinved-12-8-kwh-hvs-serisi-batterybox-premium-aku.png</g:image_link>
-      <g:price>355810.07 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1955</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-1280-c7823607</g:id>
-      <g:title>Solinved 12V 100Ah Lityum Batarya</g:title>
-      <g:description>Solinved 12 V 100 Ah lityum batarya: off-grid ve yedekli güneş sistemlerinde enerji depolama. Uzun çevrim ömrü ve yüksek deşarj derinliği.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-100ah-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1735/big_sol-1280.jpg</g:image_link>
-      <g:price>15925.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-1280</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol12-100-4a392e7f</g:id>
-      <g:title>Solinved 12V 100Ah Solar Jel Akü Deep Cycle</g:title>
-      <g:description>Solinved 12 V 100 Ah solar jel akü (deep cycle): derin deşarja dayanıklı, bakım gerektirmeyen akü. Off-grid güneş sistemlerinde enerji depolama için.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-100ah-solar-jel-aku-deep-cycle</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1732/big_sol12-100.jpg?v=20260823</g:image_link>
-      <g:price>8268.75 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL12-100</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-12-12-7eb279df</g:id>
-      <g:title>Solinved 12V 12Ah Kursun Asit Akü</g:title>
-      <g:description>Solinved 12 V 12 Ah kurşun asit akü: kesintisiz güç kaynakları, alarm ve küçük solar uygulamalarda kullanılan yedek enerji aküsü.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-12ah-kursun-asit-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1801/big_sol-12-12.jpg</g:image_link>
-      <g:price>857.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-12-12</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol12-150-1ceed163</g:id>
-      <g:title>Solinved 12V 150Ah Solar Jel Akü Deep Cycle</g:title>
-      <g:description>Solinved 12 V 150 Ah solar jel akü (deep cycle): derin deşarja dayanıklı, bakım gerektirmeyen akü. Off-grid güneş sistemlerinde enerji depolama için.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-150ah-solar-jel-aku-deep-cycle</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1733/big_sol12-150.jpg</g:image_link>
-      <g:price>12403.37 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL12-150</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol12-200-0e479daf</g:id>
-      <g:title>Solinved 12V 200Ah Solar Jel Akü Deep Cycle</g:title>
-      <g:description>Solinved 12 V 200 Ah solar jel akü (deep cycle): derin deşarja dayanıklı, bakım gerektirmeyen akü. Off-grid güneş sistemlerinde enerji depolama için.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-200ah-solar-jel-aku-deep-cycle</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1734/big_sol12-200.jpg</g:image_link>
-      <g:price>16537.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL12-200</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-12-7-bce88bbf</g:id>
-      <g:title>Solinved 12V 7Ah Kursun Asit Akü</g:title>
-      <g:description>Solinved 12 V 7 Ah kurşun asit akü: kesintisiz güç kaynakları, alarm ve küçük solar uygulamalarda kullanılan yedek enerji aküsü.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-7ah-kursun-asit-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1798/big_sol-12-7.jpg</g:image_link>
-      <g:price>428.75 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-12-7</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-12-7-premium-b6982138</g:id>
-      <g:title>Solinved 12V 7Ah Premium Kursun Asit Akü</g:title>
-      <g:description>Solinved 12 V 7 Ah premium kurşun asit akü: kesintisiz güç kaynakları, alarm ve küçük solar uygulamalarda kullanılan yedek enerji aküsü.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-7ah-premium-kursun-asit-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1799/big_sol-12-7-premium.jpg</g:image_link>
-      <g:price>490.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-12-7-PREMIUM</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-12-9-5afa4cdc</g:id>
-      <g:title>Solinved 12V 9Ah Kursun Asit Akü</g:title>
-      <g:description>Solinved 12 V 9 Ah kurşun asit akü: kesintisiz güç kaynakları, alarm ve küçük solar uygulamalarda kullanılan yedek enerji aküsü.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-12v-9ah-kursun-asit-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1800/big_sol-12-9.jpg</g:image_link>
-      <g:price>612.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-12-9</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -7457,48 +7226,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-2560-eaa97ef5</g:id>
-      <g:title>Solinved 24V 100Ah Lityum Batarya</g:title>
-      <g:description>Solinved 24 V 100 Ah lityum batarya: off-grid ve yedekli güneş sistemlerinde enerji depolama. Uzun çevrim ömrü ve yüksek deşarj derinliği.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-24v-100ah-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1736/big_sol-2560.jpg?v=20260823</g:image_link>
-      <g:price>25725.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-2560</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1960-40b8abfa</g:id>
-      <g:title>Solinved 25.6V 200Ah LiFePO4 Akü</g:title>
-      <g:description>Solinved 25.6V 200Ah LiFePO4 Akü – LiFePO4 lityum batarya. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-25-6v-200ah-lifepo4-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1960/big_solinved-25-6v-200ah-lifepo4-aku.png</g:image_link>
-      <g:price>52062.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1960</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -8111,27 +7838,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>tsm-1965-f22430a8</g:id>
-      <g:title>Solinved 5.1 kWh HVS Serisi Batterybox Premium Akü</g:title>
-      <g:description>Solinved 5.1 kWh HVS Serisi Batterybox Premium Akü – LiFePO4 lityum batarya, 5.1 kWh. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-5-1-kwh-hvs-serisi-batterybox-premium-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1965/big_solinved-5-1-kwh-hvs-serisi-batterybox-premium-aku.png</g:image_link>
-      <g:price>158469.92 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1965</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>sol-cdi-spdg5r5t4-af08260d</g:id>
       <g:title>Solinved 5.5 kW Tri Faz Solar Pompa Sürücü 380V</g:title>
       <g:description>Solinved 5,5 kW trifaze solar pompa sürücü (380 V): güneş panelinden gelen enerjiyle pompayı şebekesiz çalıştırır. Sulama ve su temini uygulamaları için.</g:description>
@@ -8150,48 +7856,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1967-9d8919b5</g:id>
-      <g:title>Solinved 51.2V 16kWh LiFePO4 Akü</g:title>
-      <g:description>Solinved 51.2V 16kWh LiFePO4 Akü – LiFePO4 lityum batarya, 16 kWh. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-51-2v-16kwh-lifepo4-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1967/big_solinved-51-2v-16kwh-lifepo4-aku.png</g:image_link>
-      <g:price>131560.10 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1967</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-wl-15-50f1e82f</g:id>
-      <g:title>Solinved 51.2V 300Ah Lityum Duvar Tipi Batarya</g:title>
-      <g:description>Solinved 51,2 V 300 Ah duvar tipi lityum batarya: duvara monte edilen enerji depolama ünitesi. Hibrit ve off-grid sistemlerde kullanılır.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-51-2v-300ah-lityum-duvar-tipi-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1738/big_sol-wl-15.jpg</g:image_link>
-      <g:price>134750.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-WL-15</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -8423,27 +8087,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1972-0965764e</g:id>
-      <g:title>Solinved 7.7 kWh HVS Serisi Batterybox Premium Akü</g:title>
-      <g:description>Solinved 7.7 kWh HVS Serisi Batterybox Premium Akü – LiFePO4 lityum batarya, 7.7 kWh. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-7-7-kwh-hvs-serisi-batterybox-premium-aku</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1972/big_solinved-7-7-kwh-hvs-serisi-batterybox-premium-aku.png</g:image_link>
-      <g:price>224249.97 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1972</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -8720,27 +8363,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>aspendos-bat-a1925d23</g:id>
-      <g:title>Solinved Aspendos All-In-One Batarya Modülü 5 kWh</g:title>
-      <g:description>Solinved Aspendos All-In-One batarya modülü 5 kWh: sistemin enerji depolama ünitesi. Modül eklenerek toplam kapasite artırılır.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-aspendos-all-in-one-batarya-modulu-5-kwh</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1701/big_aspendos-bat.jpg</g:image_link>
-      <g:price>55125.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>ASPENDOS-BAT</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>aspendos-inv-099599a3</g:id>
       <g:title>Solinved Aspendos All-In-One Inverter Modülü 6 kW 48V</g:title>
       <g:description>Solinved Aspendos All-In-One inverter modülü 6 kW 48 V: şebekeden bağımsız enerji sistemi için inverter ünitesi. Batarya modülüyle birlikte kurulur.</g:description>
@@ -8759,27 +8381,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1983-dcbcdc23</g:id>
-      <g:title>Solinved Battery Box LV5.0 Kwh 51,2V</g:title>
-      <g:description>Solinved Battery Box LV5.0 Kwh 51,2V – LiFePO4 lityum batarya, 5.0 kWh. Güneş sistemleri için güvenli depolama. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solinved-battery-box-lv5-0-kwh-51-2v</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1983/big_solinved-battery-box-lv5-0-kwh-51-2v.png</g:image_link>
-      <g:price>62790.07 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>TSM-1983</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -9917,27 +9518,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>sol-5100-hv-lv-ff297705</g:id>
-      <g:title>Solinved Kapadokya 51.2V 100Ah Lityum Rack Batarya</g:title>
-      <g:description>Solinved Kapadokya 51,2 V 100 Ah lityum rack batarya: kabinete monte edilen modüler enerji depolama ünitesi. Modül eklenerek kapasite artırılır.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-kapadokya-51-2v-100ah-lityum-rack-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1737/big_sol-5100-hv-lv.jpg</g:image_link>
-      <g:price>52062.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-5100-HV-LV</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>tsm-2017-48027d5a</g:id>
       <g:title>Solinved Kenar Panel Tutucu 35mm (Clamp)</g:title>
       <g:description>Solinved Kenar Panel Tutucu 35mm (Clamp). Güneş enerjisi sistemleri için panel montaj bileşeni. Türkiye Solar Market.</g:description>
@@ -9998,27 +9578,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-lithium-cable-aa7d4a2b</g:id>
-      <g:title>Solinved Lityum Batarya Güç Kablo Seti 2x1.5m</g:title>
-      <g:description>Solinved lityum batarya güç kablo seti (2 x 1,5 m): batarya ile inverter arasındaki güç bağlantısı için hazır kablo seti.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-lityum-batarya-guc-kablo-seti-2x1-5m</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1741/big_sol-lithium-cable.jpg</g:image_link>
-      <g:price>1837.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-LITHIUM-CABLE</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -10271,27 +9830,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>285 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-xh-controlbox-e87ded0b</g:id>
-      <g:title>Solinved XH Control Box</g:title>
-      <g:description>Solinved XH Control Box: Solinved enerji depolama sistemlerinde kullanılan kontrol kutusu. Teknik detay ve stok bilgisi için Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-xh-control-box</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1740/big_sol-xh-controlbox.jpg</g:image_link>
-      <g:price>55125.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-XH-CONTROLBOX</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
       </g:shipping>
     </item>
     <item>
