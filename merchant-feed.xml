@@ -273,8 +273,8 @@
       <g:shipping_label>agir_panel</g:shipping_label>
       <g:shipping>
         <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>910 TRY</g:price>
+        <g:service>İzmir depodan teslim (kargo yapılmaz)</g:service>
+        <g:price>0 TRY</g:price>
       </g:shipping>
     </item>
     <item>
