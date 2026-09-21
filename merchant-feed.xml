@@ -3302,48 +3302,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>tsm-1927-68509879</g:id>
-      <g:title>Solax HV10230 V2 3 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax HV10230 V2, 3 kWh yüksek gerilimli (HV) LiFePO4 lityum enerji depolama bataryası, %90 DOD, istiflenebilir (stackable). Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-hv10230-v2-3-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1927/big_solax-hv10230-v2-3-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>86832.37 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TSM-1927</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1932-91f0d7ef</g:id>
-      <g:title>Solax HV11550 V2 5.8 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax HV11550 V2, 5.8 kWh yüksek gerilimli (HV) LiFePO4 lityum enerji depolama bataryası, %90 DOD. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-hv11550-v2-5-8-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1932/big_solax-hv11550-v2-5-8-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>128121.86 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TSM-1932</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>m1-40-f4536f5a</g:id>
       <g:title>Solax M1-40 Monofaze Akilli Enerji Sayaci</g:title>
       <g:description>Solax M1-40, monofaze (1 faz) sistemler için 100A/40mA CT&apos;li akıllı enerji sayacı; sıfır besleme (zero injection) ve ihracat gücü kontrolü.</g:description>
@@ -3407,90 +3365,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>mc0600-5e4bc479</g:id>
-      <g:title>Solax MC0600 Batarya Yönetim Sistemi (BMS)</g:title>
-      <g:description>Solax MC0600, Solax Triple Power bataryaları için Batarya Yönetim Sistemi (BMS). Yumuşak başlatma ile batarya ve inverteri korur, uzaktan izleme.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-mc0600-batarya-yonetim-sistemi-bms</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1926/big_solax-mc0600-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>35717.56 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>MC0600</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>mcr0800-97ab7ad3</g:id>
-      <g:title>Solax MCR0800 Batarya Yönetim Sistemi (BMS)</g:title>
-      <g:description>Solax MCR0800, Solax Triple Power bataryaları için Batarya Yönetim Sistemi (BMS). Yumuşak başlatma ile batarya ve inverteri korur, uzaktan izleme.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-mcr0800-batarya-yonetim-sistemi-bms</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1933/big_solax-mcr0800-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>34743.40 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>MCR0800</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>mcs0800-40523006</g:id>
-      <g:title>Solax MCS0800 Batarya Yönetim Sistemi (BMS)</g:title>
-      <g:description>Solax MCS0800, Solax Triple Power bataryaları için Batarya Yönetim Sistemi (BMS). Yumuşak başlatma ile batarya ve inverteri korur, uzaktan izleme.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-mcs0800-batarya-yonetim-sistemi-bms</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1928/big_solax-mcs0800-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>32801.82 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>MCS0800</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1931-f737dee4</g:id>
-      <g:title>Solax T-BAT H 5.8 V2 5.8 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax T-BAT H 5.8 V2, 5.8 kWh  LiFePO4 lityum enerji depolama bataryası, %90 DOD. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-h-5-8-v2-5-8-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1931/big_solax-t-bat-h-5-8-v2-5-8-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>152941.62 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TSM-1931</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>t-bat-sys-hv-r2-5-16c1fae0</g:id>
       <g:title>Solax T-BAT-SYS-HV-R2.5 2.5 kWh LiFePO4 Lityum Batarya</g:title>
       <g:description>Solax T-BAT-SYS-HV-R2.5, 2.5 kWh yüksek gerilimli (HV) LiFePO4 lityum enerji depolama bataryası, %90 DOD, rack montajlı (rackable). Türkiye Solar Market.</g:description>
@@ -3522,48 +3396,6 @@
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
       <g:mpn>T-BAT-SYS-HV-R3.6</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>t-bat-sys-hv-s2-5-75e5cc30</g:id>
-      <g:title>Solax T-BAT-SYS-HV-S2.5 2.5 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax T-BAT-SYS-HV-S2.5, 2.5 kWh yüksek gerilimli (HV) LiFePO4 lityum enerji depolama bataryası, %90 DOD, istiflenebilir (stackable). Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-sys-hv-s2-5-2-5-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1929/big_solax-t-bat-sys-hv-s2-5-2-5-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>72718.83 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>T-BAT-SYS-HV-S2.5</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>t-bat-sys-hv-s3-6-f8a3b8ba</g:id>
-      <g:title>Solax T-BAT-SYS-HV-S3.6 3.6 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax T-BAT-SYS-HV-S3.6, 3.6 kWh yüksek gerilimli (HV) LiFePO4 lityum enerji depolama bataryası, %90 DOD, istiflenebilir (stackable). Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-sys-hv-s3-6-3-6-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1930/big_solax-t-bat-sys-hv-s3-6-3-6-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>94716.67 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>T-BAT-SYS-HV-S3.6</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
       <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
       <g:shipping_weight>50 kg</g:shipping_weight>
@@ -3677,48 +3509,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tp-hs50e-f3a22b9a</g:id>
-      <g:title>Solax TP-HS50E 5.1 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax TP-HS50E, 5.1 kWh  LiFePO4 lityum enerji depolama bataryası, %90 DOD. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-tp-hs50e-5-1-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1923/big_solax-tp-hs50e-5-1-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>105851.55 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TP-HS50E</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tp-ld150-40902c71</g:id>
-      <g:title>Solax TP-LD150 15 kWh LiFePO4 Lityum Batarya</g:title>
-      <g:description>Solax TP-LD150, 15 kWh düşük gerilimli (LV) LiFePO4 lityum enerji depolama bataryası. Türkiye Solar Market.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-tp-ld150-15-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1925/big_solax-tp-ld150-15-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>241822.32 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TP-LD150</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
       </g:shipping>
     </item>
     <item>
