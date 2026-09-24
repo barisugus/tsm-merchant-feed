@@ -1853,10 +1853,10 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>42-0411-0027-14a0fe36</g:id>
+      <g:id>42-0411-0027-8783dd34</g:id>
       <g:title>Fronius Rüzgar Sensörü – Solar Sistem Izleme (Rüzgar Hizi Ölçüm)</g:title>
       <g:description>Fronius Rüzgar Sensörü, GES lokasyonunda rüzgar hızını ölçerek Solar.web platformuna aktarır. Profesyonel izleme için!</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/fronius-ruzgar-sensoru</g:link>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/fronius/fronius-ruzgar-sensoru</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1566/big_fronius-sensor.jpg</g:image_link>
       <g:price>2525.27 TRY</g:price>
       <g:availability>in_stock</g:availability>
@@ -1864,13 +1864,13 @@
       <g:brand>Fronius</g:brand>
       <g:mpn>42,0411,0027</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
+      <g:shipping_weight>15 kg</g:shipping_weight>
+      <g:shipping_label>agir_inverter</g:shipping_label>
       <g:shipping>
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
+        <g:price>615 TRY</g:price>
       </g:shipping>
     </item>
     <item>
@@ -2592,7 +2592,7 @@
       <g:title>Fronius Verto 20.0 SPD 1+2 – 20 kW Trifaze Solar Inverter (Entegre Parafudr)</g:title>
       <g:description>Fronius Verto 20.0 SPD 1+2, 20kW trifaze inverter. Entegre parafudr (SPD Tip 1+2), %98,5+ verim. Büyük Ticari projeler için!</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/fronius/fronius-verto-200-spd-12</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1558/Fronius-Verto-turkiye-solar-market.png</g:image_link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1558/big_Fronius-Verto-turkiye-solar-market.png</g:image_link>
       <g:price>147021.30 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
