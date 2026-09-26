@@ -3281,27 +3281,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>tsm-1946-2f7a2fa9</g:id>
-      <g:title>Solax EMS1000 PRO-16 Ticari Enerji Yönetim (EMS) Kontrol Ünitesi</g:title>
-      <g:description>Solax EMS1000 PRO-16, ticari enerji depolama çözümleri için EMS (Enerji Yönetim Sistemi) kontrol ünitesi; en fazla 16 adet EMS1000 ünitesini yönetir.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-ems1000-pro-16-ticari-enerji-yonetim-ems-kontrol-unitesi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1946/big_solax-ems1000-pro-16-ticari-enerji-yonetim-ems-kontrol-unitesi.png</g:image_link>
-      <g:price>74745.41 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TSM-1946</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>standart_aksesuar</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>tsm-1944-77ae86c3</g:id>
       <g:title>Solax EMS1000 PRO-5 Ticari Enerji Yönetim (EMS) Kontrol Ünitesi</g:title>
       <g:description>Solax EMS1000 PRO-5, ticari enerji depolama çözümleri için EMS (Enerji Yönetim Sistemi) kontrol ünitesi; en fazla 5 adet EMS1000 ünitesini yönetir.</g:description>
@@ -5672,48 +5651,6 @@
         <g:country>TR</g:country>
         <g:service>Standart Kargo (alıcı öder)</g:service>
         <g:price>1185 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x3-pcab-1250-a0a598f4</g:id>
-      <g:title>Solax X3-PCAB-1250 Ticari Optik Depolama (PV+Batarya) Kabin Sistemi</g:title>
-      <g:description>Solax X3-PCAB-1250, entegre EMS&apos;li ticari ve endüstriyel (C&amp;I) optik depolama (PV + batarya) switch kabin sistemi. Büyük ölçekli kurulumlar için.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-pcab-1250-ticari-optik-depolama-pv-batarya-kabin-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1948/big_solax-x3-pcab-1250-ticari-optik-depolama-pv-batarya-kabin-sistemi.png</g:image_link>
-      <g:price>2710535.59 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-PCAB-1250</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x3-pcab-750-453c7179</g:id>
-      <g:title>Solax X3-PCAB-750 Ticari Optik Depolama (PV+Batarya) Kabin Sistemi</g:title>
-      <g:description>Solax X3-PCAB-750, entegre EMS&apos;li ticari ve endüstriyel (C&amp;I) optik depolama (PV + batarya) switch kabin sistemi. Büyük ölçekli kurulumlar için.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-pcab-750-ticari-optik-depolama-pv-batarya-kabin-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1947/big_solax-x3-pcab-750-ticari-optik-depolama-pv-batarya-kabin-sistemi.png</g:image_link>
-      <g:price>1402023.04 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-PCAB-750</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
       </g:shipping>
     </item>
     <item>
