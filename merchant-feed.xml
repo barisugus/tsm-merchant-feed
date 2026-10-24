@@ -635,27 +635,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>sun-20k-sg01hp3-eu-80a3a87b</g:id>
-      <g:title>Deye 20 kW Tri Faz Hibrit Inverter HV</g:title>
-      <g:description>Deye 20 kW Tri Faz (Üç Faz) Hibrit İnverter Yüksek Gerilim (HV), güneş enerjisi sistemlerinde hem şebekeye bağlı (on-grid) hem de şebekeden bağımsız…</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/deye/deye-20-kw-tri-faz-hibrit-inverter-hv</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1681/big_sun-20k-sg01hp3-eu.jpg?v=20260823</g:image_link>
-      <g:price>153090.00 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Deye</g:brand>
-      <g:mpn>SUN-20K-SG01HP3-EU</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>sun-20k-sg05lp3-eu-sm2-f396c9b6</g:id>
       <g:title>Deye 20 kW Tri Faz Hibrit Inverter LV</g:title>
       <g:description>Deye 20 kW Tri Faz (Üç Faz) Hibrit İnverter Düşük Gerilim (LV), güneş enerjisi sistemlerinde hem şebekeye bağlı (on-grid) hem de şebekeden bağımsız…</g:description>
@@ -5832,27 +5811,6 @@
       <g:condition>new</g:condition>
       <g:brand>Solinved</g:brand>
       <g:mpn>SOL-CDI-SPDG2R2-SS2</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
-      <g:shipping_weight>15 kg</g:shipping_weight>
-      <g:shipping_label>agir_inverter</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>615 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>sol-cdi-spdg2r2t4-1cc5e15c</g:id>
-      <g:title>Solinved 2.2 kW Tri Faz Solar Pompa Sürücü 380V</g:title>
-      <g:description>Solinved 2,2 kW trifaze solar pompa sürücü (380 V): güneş panelinden gelen enerjiyle pompayı şebekesiz çalıştırır. Sulama ve su temini uygulamaları için.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solinved/solinved-2-2-kw-tri-faz-solar-pompa-surucu-380v</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1770/big_sol-cdi-spdg2r2t4.jpg</g:image_link>
-      <g:price>9887.06 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solinved</g:brand>
-      <g:mpn>SOL-CDI-SPDG2R2T4</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
       <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
       <g:shipping_weight>15 kg</g:shipping_weight>
