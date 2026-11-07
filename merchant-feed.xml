@@ -1727,6 +1727,27 @@
       </g:shipping>
     </item>
     <item>
+      <g:id>tsm-1272-95bfb13c</g:id>
+      <g:title>Fronius Smart Meter TS 5kA-3 – Akilli Enerji Sayaç (Trifaze, Akim Trafolu, Maks. 5000 A)</g:title>
+      <g:description>Fronius Smart Meter TS 5kA-3, akım trafolarıyla faz başına 5000 A&apos;e kadar ölçüm yapan trifaze, çift yönlü bir akıllı sayaçtır. Fronius inverterlerle Modbus RTU üzerinden haberleşir.</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/fronius-smart-meter-ts-5ka3</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1272/M-149380.png</g:image_link>
+      <g:price>14106.24 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Fronius</g:brand>
+      <g:mpn>TSM-1272</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
+      <g:shipping_weight>5 kg</g:shipping_weight>
+      <g:shipping_label>standart_aksesuar</g:shipping_label>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo (alıcı öder)</g:service>
+        <g:price>380 TRY</g:price>
+      </g:shipping>
+    </item>
+    <item>
       <g:id>tsm-1289-fdde7cc2</g:id>
       <g:title>Fronius Smart Meter TS 65A-3 – Akilli Enerji Sayaç (Trifaze, 65A, Dogru Ölçüm, Gelismis Izleme)</g:title>
       <g:description>Fronius Smart Meter TS 65A-3, trifaze 65A, inverter uyumlu akıllı enerji sayaç. Ticari ve endüstriyel GES projeleri için doğru ölçüm ve izleme!</g:description>
@@ -3029,12 +3050,33 @@
       </g:shipping>
     </item>
     <item>
+      <g:id>tsm-1945-7fae0907</g:id>
+      <g:title>Solax EMS1000 PRO-8 Ticari Enerji Yönetim (EMS) Kontrol Ünitesi</g:title>
+      <g:description>Solax EMS1000 PRO-8: C&amp;I depolama ve güneş santralleri için master EMS kontrolörü; en fazla 120 inverter, 10 slave cihaz, RS485/Ethernet/4G, web arayüzü.</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-ems1000-pro-8-ticari-enerji-yonetim-ems-kontrol-unitesi</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1945/big_solax-ems1000-pro-8-ticari-enerji-yonetim-ems-kontrol-unitesi.png</g:image_link>
+      <g:price>81991.87 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Solax</g:brand>
+      <g:mpn>TSM-1945</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Solar Energy Kits</g:google_product_category>
+      <g:shipping_weight>5 kg</g:shipping_weight>
+      <g:shipping_label>standart_aksesuar</g:shipping_label>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo (alıcı öder)</g:service>
+        <g:price>380 TRY</g:price>
+      </g:shipping>
+    </item>
+    <item>
       <g:id>ems1000-ad898af6</g:id>
       <g:title>Solax EMS1000 Ticari Enerji Yönetim (EMS) Kontrol Ünitesi</g:title>
       <g:description>Solax EMS1000: TRENE/AELIO ticari depolama ve C&amp;I güneş santralleri için EMS; en fazla 10 kabin, RS485 ile 20 inverter, 4G/Ethernet, 1 yıl yerel kayıt.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-ems1000-ticari-enerji-yonetim-ems-kontrol-unitesi</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1943/big_solax-ems1000-ticari-enerji-yonetim-ems-kontrol-unitesi.png</g:image_link>
-      <g:price>86586.05 TRY</g:price>
+      <g:price>98375.62 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3097,7 +3139,7 @@
       <g:description>Solax M1-40 monofaze akıllı enerji sayacı; 100 A/40 mA CT dahil, RS485/Wi-BR, uyumlu Solax monofaze inverterlerde sıfır besleme ve export kontrolü.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-m1-40-monofaze-akilli-enerji-sayaci</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1941/big_solax-m1-40-monofaze-akilli-enerji-sayaci.png</g:image_link>
-      <g:price>5338.37 TRY</g:price>
+      <g:price>5818.75 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3118,7 +3160,7 @@
       <g:description>Solax M3-40-Dual trifaze, iki kanallı (çift devre) akıllı sayaç: şebeke ve ikinci üretim devresini aynı anda ölçer; 2 CT seti, RS485/Wi-BR.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-m3-40-dual-trifaze-akilli-enerji-sayaci</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1942/big_solax-m3-40-dual-trifaze-akilli-enerji-sayaci.png</g:image_link>
-      <g:price>12811.97 TRY</g:price>
+      <g:price>14106.24 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3139,7 +3181,7 @@
       <g:description>Solax M3-40 trifaze (3P3W/3P4W) akıllı enerji sayacı; 100–600 A CT veya Rogowski bobiniyle ölçüm, RS485/Wi-BR, uyumlu Solax inverterlerde export kontrolü.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-m3-40-trifaze-akilli-enerji-sayaci</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1940/big_solax-m3-40-trifaze-akilli-enerji-sayaci.png</g:image_link>
-      <g:price>10633.54 TRY</g:price>
+      <g:price>11725.63 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3160,32 +3202,11 @@
       <g:description>Solax MC0600: T30 (T-BAT H 3.0 V2) sisteminde HV10230 V2 batarya modüllerini yöneten BMS. 1–4 modül, 90–464 V, maks. 30 A.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-mc0600-batarya-yonetim-sistemi-bms</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1926/big_solax-mc0600-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>36620.35 TRY</g:price>
+      <g:price>45110.02 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
       <g:mpn>MC0600</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>mcr0800-97ab7ad3</g:id>
-      <g:title>Solax MCR0800 Batarya Yönetim Sistemi (BMS)</g:title>
-      <g:description>Solax TBMS-MCR0800: T-BAT-SYS-HV-R2.5 / R3.6 raf sisteminde TP-HR25 ve TP-HR36 modüllerini yöneten BMS. 2–13 modül, 89,6–759,2 V, maks. 50 A.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-mcr0800-batarya-yonetim-sistemi-bms</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1933/big_solax-mcr0800-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>35621.57 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>MCR0800</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
       <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
       <g:shipping_weight>5 kg</g:shipping_weight>
@@ -3202,7 +3223,7 @@
       <g:description>Solax TBMS-MCS0800: T-BAT-SYS-HV-S2.5 / S3.6 sisteminde TP-HS25 ve TP-HS36 modüllerini yöneten BMS. 2–13 modül, 90–750 V, maks. 50 A.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-mcs0800-batarya-yonetim-sistemi-bms</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1928/big_solax-mcs0800-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>33630.91 TRY</g:price>
+      <g:price>47167.49 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3239,54 +3260,12 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>t-bat-sys-hv-r2-5-16c1fae0</g:id>
-      <g:title>Solax T-BAT-SYS-HV-R2.5 (TP-HR25) 2.56 kWh LiFePO4 Raf Batarya Modülü (BMS Hariç)</g:title>
-      <g:description>Solax TP-HR25 2,56 kWh (kullanılabilir 2,3 kWh) LiFePO4 raf batarya modülü. TBMS-MCR0800 BMS ayrı satılır; 2–13 modül, 5,1–33,2 kWh, IP20.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-sys-hv-r2-5-2-5-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1934/big_solax-t-bat-sys-hv-r2-5-2-5-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>74556.86 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>T-BAT-SYS-HV-R2.5</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>t-bat-sys-hv-r3-6-9421dcd0</g:id>
-      <g:title>Solax T-BAT-SYS-HV-R3.6 (TP-HR36) 3.68 kWh LiFePO4 Raf Batarya Modülü (BMS Hariç)</g:title>
-      <g:description>Solax TP-HR36 3,68 kWh (kullanılabilir 3,31 kWh) LiFePO4 raf batarya modülü. TBMS-MCR0800 BMS ayrı satılır; 2–13 modül, 7,3–47,9 kWh, IP20.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-sys-hv-r3-6-3-6-kwh-lifepo4-lityum-batarya</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1935/big_solax-t-bat-sys-hv-r3-6-3-6-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>106805.38 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>T-BAT-SYS-HV-R3.6</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>50 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1580 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>t-bat-sys-hv-s2-5-75e5cc30</g:id>
       <g:title>Solax T-BAT-SYS-HV-S2.5 (TP-HS25) 2.5 kWh LiFePO4 Batarya Modülü (BMS Hariç)</g:title>
       <g:description>Solax TP-HS25 2,5 kWh LiFePO4 batarya modülü (T-BAT-SYS-HV-S2.5). TBMS-MCS0800 BMS ayrı satılır; 2–13 modül ile 5,12–33,28 kWh, IP65.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-sys-hv-s2-5-2-5-kwh-lifepo4-lityum-batarya</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1929/big_solax-t-bat-sys-hv-s2-5-2-5-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>74556.86 TRY</g:price>
+      <g:price>74571.26 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3307,7 +3286,7 @@
       <g:description>Solax TP-HS36 3,6 kWh LiFePO4 batarya modülü (T-BAT-SYS-HV-S3.6). TBMS-MCS0800 BMS ayrı satılır; 2–13 modül ile 7,37–47,92 kWh, IP65.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-t-bat-sys-hv-s3-6-3-6-kwh-lifepo4-lityum-batarya</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1930/big_solax-t-bat-sys-hv-s3-6-3-6-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>97110.72 TRY</g:price>
+      <g:price>97126.27 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3370,7 +3349,7 @@
       <g:description>Solax TBMS-MCS0800E: X1-IES ve X3-IES sistemlerinde TP-HS50E batarya modüllerini yöneten BMS. Her sistemde 1 adet gerekir. 730×165×150 mm, 9,3 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-tbms-mcs0800e-batarya-yonetim-sistemi-bms</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1922/big_solax-tbms-mcs0800e-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>24566.40 TRY</g:price>
+      <g:price>42612.48 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3391,7 +3370,7 @@
       <g:description>Solax TBMS-R15: X3-AELIO C&amp;I sisteminde TB-HR140 raf bataryalarını yöneten BMS. BMS başına 7–14 modül (100,1–200,2 kWh), 250–1000 V.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-tbms-r15-batarya-yonetim-sistemi-bms</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1938/big_solax-tbms-r15-batarya-yonetim-sistemi-bms.png</g:image_link>
-      <g:price>122779.01 TRY</g:price>
+      <g:price>151273.73 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3475,7 +3454,7 @@
       <g:description>Solax TP-LD53: 5,3 kWh (kullanılabilir 5,03 kWh) 51,2 V düşük gerilim LiFePO4 batarya. BMS dahili, 16 adede kadar paralel, IP65.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solax-lityum-pil/solax-tp-ld53-5-3-kwh-lifepo4-lityum-batarya</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1924/big_solax-tp-ld53-5-3-kwh-lifepo4-lityum-batarya.png</g:image_link>
-      <g:price>87757.06 TRY</g:price>
+      <g:price>98889.98 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3496,7 +3475,7 @@
       <g:description>Solax X1-BOOST-2.5K-G4: 2,5 kW monofaze on-grid string inverter; 2 MPPT (40–560 V), maks. PV 6 kWp, IP66, AFCI opsiyonel. Wi-Fi dongle opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-boost-2-5k-g4-2-5-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1841/big_solax-x1-boost-2-5k-g4-2-5-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>28298.30 TRY</g:price>
+      <g:price>28946.88 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3517,7 +3496,7 @@
       <g:description>Solax X1-BOOST-3.3K-G4: 3,3 kW monofaze on-grid string inverter; 2 MPPT (40–560 V), maks. PV 6,6 kWp, IP66, AFCI opsiyonel. Wi-Fi dongle opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-boost-3-3k-g4-3-3-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1843/big_solax-x1-boost-3-3k-g4-3-3-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>32133.31 TRY</g:price>
+      <g:price>32914.37 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3538,7 +3517,7 @@
       <g:description>Solax X1-BOOST-3.6K-G4: 3,6 kW monofaze on-grid string inverter; 2 MPPT (40–560 V), maks. PV 7,2 kWp, IP66, AFCI opsiyonel. Wi-Fi dongle opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-boost-3-6k-g4-3-6-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1844/big_solax-x1-boost-3-6k-g4-3-6-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>33376.90 TRY</g:price>
+      <g:price>34236.86 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3559,7 +3538,7 @@
       <g:description>Solax X1-BOOST-3K-G4: 3 kW monofaze on-grid string inverter; 2 MPPT (40–560 V), maks. PV 6 kWp, IP66, AFCI opsiyonel. Wi-Fi dongle opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-boost-3k-g4-3-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1842/big_solax-x1-boost-3k-g4-3-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>30060.29 TRY</g:price>
+      <g:price>30563.14 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3580,7 +3559,7 @@
       <g:description>Solax X1-BOOST-4.2K-G4: 4,2 kW monofaze on-grid string inverter; 2 MPPT (40–560 V), maks. PV 8 kWp, IP66, AFCI opsiyonel. Wi-Fi dongle opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-boost-4-2k-g4-4-2-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1845/big_solax-x1-boost-4-2k-g4-4-2-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>33998.98 TRY</g:price>
+      <g:price>34898.11 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3638,138 +3617,12 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>x1-fit-3-7-w-1fe5dc3b</g:id>
-      <g:title>Solax X1-FIT-3.7-W 3.7 kW Monofaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X1-FIT-3.7-W: 3,68 kW monofaze AC-coupled batarya inverteri. PV girişi yok; 80–480 V HV batarya ile mevcut GES&apos;e depolama ekler. Batarya hariç.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-fit-3-7-w-3-7-kw-monofaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1902/big_solax-x1-fit-3-7-w-3-7-kw-monofaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>65553.41 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-FIT-3.7-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>22 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>825 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-fit-5-0-w-0d20cda0</g:id>
-      <g:title>Solax X1-FIT-5.0-W 5 kW Monofaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X1-FIT-5.0-W: 5 kW monofaze AC-coupled batarya inverteri. PV girişi yok; 80–480 V HV batarya ile mevcut GES&apos;e depolama ekler. Batarya hariç.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-fit-5-0-w-5-kw-monofaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1903/big_solax-x1-fit-5-0-w-5-kw-monofaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>69610.75 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-FIT-5.0-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>22 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>825 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-fit-6-0-w-8e71a37f</g:id>
-      <g:title>Solax X1-FIT-6.0-W 6 kW Monofaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X1-FIT-6.0-W: 6 kW monofaze AC-coupled batarya inverteri. PV girişi yok; 80–480 V HV batarya ile mevcut GES&apos;e depolama ekler. Batarya hariç.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-fit-6-0-w-6-kw-monofaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1904/big_solax-x1-fit-6-0-w-6-kw-monofaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>73560.96 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-FIT-6.0-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>22 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>825 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-fit-7-5-w-1461bfff</g:id>
-      <g:title>Solax X1-FIT-7.5-W 7.5 kW Monofaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X1-FIT-7.5-W: 7,5 kW monofaze AC-coupled batarya inverteri. PV girişi yok; 80–480 V HV batarya ile mevcut GES&apos;e depolama ekler. Batarya hariç.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-fit-7-5-w-7-5-kw-monofaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1905/big_solax-x1-fit-7-5-w-7-5-kw-monofaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>77617.73 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-FIT-7.5-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>35 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1185 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1897-cc909005</g:id>
-      <g:title>Solax X1-HAC-7 Fis 7,2 kW Monofaze AC Elektrikli Araç Sarj Cihazi</g:title>
-      <g:description>Solax X1-HAC-7 Fiş: 7,2 kW monofaze AC şarj cihazı, 6,5 m kablolu Type 2 fiş, OCPP 1.6J, Wi-Fi/Ethernet, RFID, 6 mA DC kaçak akım koruması, IP65.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/elektrikli-arac-sarj-cihazi/solax-x1-hac-7-fis-7-2-kw-monofaze-ac-elektrikli-arac-sarj-cihazi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1897/big_solax-x1-hac-7-fis-7-2-kw-monofaze-ac-elektrikli-arac-sarj-cihazi.png</g:image_link>
-      <g:price>41533.06 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TSM-1897</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicle Parts &amp; Accessories &gt; Motor Vehicle Electronics &gt; Motor Vehicle Charging</g:google_product_category>
-      <g:shipping_weight>7 kg</g:shipping_weight>
-      <g:shipping_label>standart_ev</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>430 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>tsm-1896-b310d5b9</g:id>
-      <g:title>Solax X1-HAC-7 Soket 7,2 kW Monofaze AC Elektrikli Araç Sarj Cihazi</g:title>
-      <g:description>Solax X1-HAC-7 Soket: 7,2 kW monofaze AC şarj cihazı, Type 2 priz (kablo hariç), OCPP 1.6J, Wi-Fi/Ethernet, RFID, 6 mA DC kaçak akım koruması, IP54.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/elektrikli-arac-sarj-cihazi/solax-x1-hac-7-soket-7-2-kw-monofaze-ac-elektrikli-arac-sarj-cihazi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1896/big_solax-x1-hac-7-soket-7-2-kw-monofaze-ac-elektrikli-arac-sarj-cihazi.png</g:image_link>
-      <g:price>36236.74 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>TSM-1896</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicle Parts &amp; Accessories &gt; Motor Vehicle Electronics &gt; Motor Vehicle Charging</g:google_product_category>
-      <g:shipping_weight>7 kg</g:shipping_weight>
-      <g:shipping_label>standart_ev</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>430 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>x1-hyb-3-0-lv-04250740</g:id>
       <g:title>Solax X1-HYB-3.0-LV 3 kW Monofaze Hibrit Inverter (Batarya Hariç)</g:title>
       <g:description>Solax X1-HYB-3.0-LV: 3 kW monofaze hibrit inverter, 2 MPPT, 6000 Wp PV, 48 V batarya, EPS nominal 3 kVA / tepe 6 kVA (10 sn). Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hyb-3-0-lv-3-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1868/big_solax-x1-hyb-3-0-lv-3-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>66235.39 TRY</g:price>
+      <g:price>70163.14 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3790,7 +3643,7 @@
       <g:description>Solax X1-HYB-3.7-LV: 3,7 kW monofaze hibrit inverter, 2 MPPT, 7360 Wp PV, 48 V batarya, EPS nominal 3,68 kVA / tepe 7,36 kVA (10 sn). Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hyb-3-7-lv-3-7-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1869/big_solax-x1-hyb-3-7-lv-3-7-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>67997.95 TRY</g:price>
+      <g:price>73101.89 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3811,7 +3664,7 @@
       <g:description>Solax X1-HYB-4.0-LV: 4 kW monofaze hibrit inverter, 2 MPPT, 8000 Wp PV, 48 V batarya, EPS nominal 4 kVA / tepe 8 kVA (10 sn). Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hyb-4-0-lv-4-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1870/big_solax-x1-hyb-4-0-lv-4-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>70693.06 TRY</g:price>
+      <g:price>75085.63 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3832,7 +3685,7 @@
       <g:description>Solax X1-HYB-5.0-LV: 5 kW monofaze hibrit inverter, 2 MPPT, 10000 Wp PV, 48 V batarya, EPS nominal 5 kVA / tepe 10 kVA (10 sn). Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hyb-5-0-lv-5-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1872/big_solax-x1-hyb-5-0-lv-5-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>75253.82 TRY</g:price>
+      <g:price>80008.13 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3853,7 +3706,7 @@
       <g:description>Solax X1-HYB-6.0-LV: 6 kW monofaze hibrit inverter, 2 MPPT, 12000 Wp PV, 48 V batarya, EPS nominal 6 kVA / tepe 12 kVA (10 sn). Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hyb-6-0-lv-6-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1873/big_solax-x1-hyb-6-0-lv-6-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>77119.49 TRY</g:price>
+      <g:price>81991.87 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3874,7 +3727,7 @@
       <g:description>Solax X1-Hybrid-3.0 G4: 3 kW monofaze hibrit inverter, 2 MPPT, 6,0 kWp PV, 80–480 V HV batarya girişi, EPS nominal 3 kVA. Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hybrid-3-0-3-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1863/big_solax-x1-hybrid-3-0-3-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>59360.83 TRY</g:price>
+      <g:price>61861.25 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3895,7 +3748,7 @@
       <g:description>Solax X1-Hybrid-3.7 G4: 3,7 kW monofaze hibrit inverter, 2 MPPT, 7,4 kWp PV, 80–480 V HV batarya girişi, EPS nominal 3,68 kVA. Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hybrid-3-7-3-7-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1864/big_solax-x1-hybrid-3-7-3-7-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>62884.22 TRY</g:price>
+      <g:price>65534.98 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3916,7 +3769,7 @@
       <g:description>Solax X1-Hybrid-5.0 G4: 5 kW monofaze hibrit inverter, 2 MPPT, 10,0 kWp PV, 80–480 V HV batarya girişi, EPS nominal 5 kVA. Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hybrid-5-0-5-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1865/big_solax-x1-hybrid-5-0-5-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>66301.06 TRY</g:price>
+      <g:price>69134.98 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3937,7 +3790,7 @@
       <g:description>Solax X1-Hybrid-6.0 G4: 6 kW monofaze hibrit inverter, 2 MPPT, 12,0 kWp PV, 80–480 V HV batarya girişi, EPS nominal 6 kVA. Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hybrid-6-0-6-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1866/big_solax-x1-hybrid-6-0-6-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>69823.87 TRY</g:price>
+      <g:price>72808.13 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3958,7 +3811,7 @@
       <g:description>Solax X1-Hybrid-7.5 G4: 7,5 kW monofaze hibrit inverter, 2 MPPT, 15,0 kWp PV, 80–480 V HV batarya girişi, EPS nominal 7,5 kVA. Batarya hariçtir.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x1-hybrid-7-5-7-5-kw-monofaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1867/big_solax-x1-hybrid-7-5-7-5-kw-monofaze-hibrit-inverter.png</g:image_link>
-      <g:price>73240.70 TRY</g:price>
+      <g:price>76334.98 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3974,180 +3827,12 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>x1-ies-3-7k-642396ba</g:id>
-      <g:title>Solax X1-IES-3.7K 3.7 kW Monofaze All-in-One Hibrit Inverter Ünitesi (Batarya ve BMS Hariç)</g:title>
-      <g:description>Solax X1-IES-3.7K: 3,7 kW monofaze X1-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %97,6 verim, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-3-7k-3-7-kw-monofaze-all-in-one-enerji-depolama-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1911/big_solax-x1-ies-3-7k-inverter-unitesi.png</g:image_link>
-      <g:price>86530.18 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-IES-3.7K</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-ies-3k-7b6a3744</g:id>
-      <g:title>Solax X1-IES-3K 3 kW Monofaze All-in-One Hibrit Inverter Ünitesi (Batarya ve BMS Hariç)</g:title>
-      <g:description>Solax X1-IES-3K: 3 kW monofaze X1-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %97,6 verim, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-3k-3-kw-monofaze-all-in-one-enerji-depolama-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1910/big_solax-x1-ies-3k-inverter-unitesi.png</g:image_link>
-      <g:price>81094.46 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-IES-3K</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-ies-4-6k-5f5aca25</g:id>
-      <g:title>Solax X1-IES-4.6K 4.6 kW Monofaze All-in-One Hibrit Inverter Ünitesi (Batarya ve BMS Hariç)</g:title>
-      <g:description>Solax X1-IES-4.6K: 4,6 kW monofaze X1-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %97,6 verim, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-4-6k-4-6-kw-monofaze-all-in-one-enerji-depolama-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1912/big_solax-x1-ies-4-6k-inverter-unitesi.png</g:image_link>
-      <g:price>90442.94 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-IES-4.6K</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>set-x1-ies-5k-1xhs50e-99f953b8</g:id>
-      <g:title>Solax X1-IES-5K 5 kW Monofaze All-in-One Enerji Depolama Seti 5.1 kWh (Inverter + BMS + 1 Batarya)</g:title>
-      <g:description>Solax X1-IES-5K all-in-one depolama seti: 5 kW monofaze hibrit inverter + TBMS-MCS0800E BMS + 1× TP-HS50E (5,1 kWh). EPS yedek güç, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-5k-5-1-kwh-all-in-one-enerji-depolama-seti</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2040/big_solax-x1-ies-5k-5-1-kwh-all-in-one-enerji-depolama-seti.png</g:image_link>
-      <g:price>225927.94 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>SET-X1-IES-5K-1xHS50E</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>82.7 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>2435 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-ies-5k-c9e29c6f</g:id>
-      <g:title>Solax X1-IES-5K 5 kW Monofaze All-in-One Hibrit Inverter Ünitesi (Batarya ve BMS Hariç)</g:title>
-      <g:description>Solax X1-IES-5K: 5 kW monofaze X1-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %97,6 verim, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-5k-5-kw-monofaze-all-in-one-enerji-depolama-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1913/big_solax-x1-ies-5k-inverter-unitesi.png</g:image_link>
-      <g:price>92834.50 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-IES-5K</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>set-x1-ies-6k-2xhs50e-0d137204</g:id>
-      <g:title>Solax X1-IES-6K 6 kW Monofaze All-in-One Enerji Depolama Seti 10.2 kWh (Inverter + BMS + 2 Batarya)</g:title>
-      <g:description>Solax X1-IES-6K all-in-one depolama seti: 6 kW monofaze hibrit inverter + TBMS-MCS0800E BMS + 2× TP-HS50E (10,2 kWh). EPS yedek güç, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-6k-10-2-kwh-all-in-one-enerji-depolama-seti</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2041/big_solax-x1-ies-6k-10-2-kwh-all-in-one-enerji-depolama-seti.png</g:image_link>
-      <g:price>338368.32 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>SET-X1-IES-6K-2xHS50E</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>129.7 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>3665 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-ies-6k-c99b4c44</g:id>
-      <g:title>Solax X1-IES-6K 6 kW Monofaze All-in-One Hibrit Inverter Ünitesi (Batarya ve BMS Hariç)</g:title>
-      <g:description>Solax X1-IES-6K: 6 kW monofaze X1-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %97,6 verim, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-6k-6-kw-monofaze-all-in-one-enerji-depolama-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1914/big_solax-x1-ies-6k-inverter-unitesi.png</g:image_link>
-      <g:price>96747.84 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-IES-6K</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x1-ies-8k-6eebc7b4</g:id>
-      <g:title>Solax X1-IES-8K 8 kW Monofaze All-in-One Hibrit Inverter Ünitesi (Batarya ve BMS Hariç)</g:title>
-      <g:description>Solax X1-IES-8K: 8 kW monofaze X1-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %97,6 verim, IP66.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x1-ies-8k-8-kw-monofaze-all-in-one-enerji-depolama-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1915/big_solax-x1-ies-8k-inverter-unitesi.png</g:image_link>
-      <g:price>104575.10 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X1-IES-8K</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>40 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1320 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>x1-mini-0-6k-g4-4bc8e301</g:id>
       <g:title>Solax X1-MINI-0.6K-G4 0.6 kW Monofaze On-Grid Solar Inverter</g:title>
       <g:description>Solax X1-MINI-0.6K-G4: 0,6 kW monofaze on-grid string inverter; 1 MPPT (40–450 V), önerilen maks. PV 1,2 kWp, IP66. Wi-Fi izleme dongle&apos;ı opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-mini-0-6k-g4-0-6-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1832/big_solax-x1-mini-0-6k-g4-0-6-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>19072.51 TRY</g:price>
+      <g:price>19322.50 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4168,7 +3853,7 @@
       <g:description>Solax X1-MINI-0.7K-G4: 0,7 kW monofaze on-grid string inverter; 1 MPPT (40–450 V), önerilen maks. PV 1,4 kWp, IP66. Wi-Fi izleme dongle&apos;ı opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-mini-0-7k-g4-0-7-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1833/big_solax-x1-mini-0-7k-g4-0-7-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>19383.55 TRY</g:price>
+      <g:price>19689.98 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4189,7 +3874,7 @@
       <g:description>Solax X1-MINI-0.8K-G4: 0,8 kW monofaze on-grid string inverter; 1 MPPT (40–450 V), önerilen maks. PV 1,6 kWp, IP66. Wi-Fi izleme dongle&apos;ı opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-mini-0-8k-g4-0-8-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1834/big_solax-x1-mini-0-8k-g4-0-8-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>19797.70 TRY</g:price>
+      <g:price>20056.90 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4210,7 +3895,7 @@
       <g:description>Solax X1-MINI-1.1K-G4: 1,1 kW monofaze on-grid string inverter; 1 MPPT (40–450 V), önerilen maks. PV 2,2 kWp, IP66. Wi-Fi izleme dongle&apos;ı opsiyonel.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-mini-1-1k-g4-1-1-kw-monofaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1835/big_solax-x1-mini-1-1k-g4-1-1-kw-monofaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>20212.99 TRY</g:price>
+      <g:price>20498.11 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4541,90 +4226,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>x3-fit-10-0-w-34a17687</g:id>
-      <g:title>Solax X3-FIT-10.0-W 10 kW Trifaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X3-FIT-10.0-W 10 kW trifaze AC-coupled retrofit inverter: mevcut GES&apos;e HV batarya (180–800 V) ve EPS ekler. PV girişi yok, batarya hariç. IP65.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-fit-10-0-w-10-kw-trifaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1908/big_solax-x3-fit-10-0-w-10-kw-trifaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>128010.82 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-FIT-10.0-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>35 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1185 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x3-fit-15-0-w-b8b91df7</g:id>
-      <g:title>Solax X3-FIT-15.0-W 15 kW Trifaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X3-FIT-15.0-W 15 kW trifaze AC-coupled retrofit inverter: mevcut GES&apos;e HV batarya (180–800 V) ve EPS ekler. PV girişi yok, batarya hariç. IP65.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-fit-15-0-w-15-kw-trifaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1909/big_solax-x3-fit-15-0-w-15-kw-trifaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>137085.70 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-FIT-15.0-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>35 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1185 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x3-fit-6-0-w-d08e7d78</g:id>
-      <g:title>Solax X3-FIT-6.0-W 6 kW Trifaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X3-FIT-6.0-W 6 kW trifaze AC-coupled retrofit inverter: mevcut GES&apos;e HV batarya (180–800 V) ve EPS ekler. PV girişi yok, batarya hariç. IP65.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-fit-6-0-w-6-kw-trifaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1906/big_solax-x3-fit-6-0-w-6-kw-trifaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>102814.27 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-FIT-6.0-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>22 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>825 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>x3-fit-8-0-w-a64eb7b4</g:id>
-      <g:title>Solax X3-FIT-8.0-W 8 kW Trifaze AC-Coupled Retrofit Batarya Inverteri (Batarya Hariç)</g:title>
-      <g:description>Solax X3-FIT-8.0-W 8 kW trifaze AC-coupled retrofit inverter: mevcut GES&apos;e HV batarya (180–800 V) ve EPS ekler. PV girişi yok, batarya hariç. IP65.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-fit-8-0-w-8-kw-trifaze-ac-coupled-retrofit-batarya-inverteri</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1907/big_solax-x3-fit-8-0-w-8-kw-trifaze-ac-coupled-retrofit-batarya-inverteri.png</g:image_link>
-      <g:price>113277.31 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-FIT-8.0-W</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>35 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>1185 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>tsm-1899-203f1f22</g:id>
       <g:title>Solax X3-HAC-11 Fis 11 kW Trifaze AC Elektrikli Araç Sarj Cihazi</g:title>
       <g:description>Solax X3-HAC-11 Fiş: 11 kW trifaze AC şarj cihazı, 6,5 m kablolu Type 2 fiş, OCPP 1.6J, Wi-Fi/Ethernet, RFID, 6 mA DC kaçak akım koruması, IP65.</g:description>
@@ -4672,7 +4273,7 @@
       <g:description>Solax X3-HAC-22 Fiş: 22 kW trifaze AC şarj cihazı, 6,5 m kablolu Type 2 fiş, OCPP 1.6J, Wi-Fi/Ethernet, RFID, 6 mA DC kaçak akım koruması, IP65.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/elektrikli-arac-sarj-cihazi/solax-x3-hac-22-fis-22-kw-trifaze-ac-elektrikli-arac-sarj-cihazi</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1901/big_solax-x3-hac-22-fis-22-kw-trifaze-ac-elektrikli-arac-sarj-cihazi.png</g:image_link>
-      <g:price>44440.70 TRY</g:price>
+      <g:price>44743.10 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4693,7 +4294,7 @@
       <g:description>Solax X3-HAC-22 Soket: 22 kW trifaze AC şarj cihazı, Type 2 priz (kablo hariç), OCPP 1.6J, Wi-Fi/Ethernet, RFID, 6 mA DC kaçak akım koruması, IP54.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/elektrikli-arac-sarj-cihazi/solax-x3-hac-22-soket-22-kw-trifaze-ac-elektrikli-arac-sarj-cihazi</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1900/big_solax-x3-hac-22-soket-22-kw-trifaze-ac-elektrikli-arac-sarj-cihazi.png</g:image_link>
-      <g:price>41221.44 TRY</g:price>
+      <g:price>41730.62 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4714,7 +4315,7 @@
       <g:description>Solax X3-HYB-10.0-P (G4 Pro) 10 kW trifaze hibrit inverter: 3 MPPT, 20 kWp PV, HV batarya, EPS 10 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-10-0-p-10-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1889/big_solax-x3-hyb-10-0-p-10-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>116907.26 TRY</g:price>
+      <g:price>121812.48 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4735,7 +4336,7 @@
       <g:description>Solax X3-HYB-12.0-P (G4 Pro) 12 kW trifaze hibrit inverter: 3 MPPT, 24 kWp PV, HV batarya, EPS 12 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-12-0-p-12-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1890/big_solax-x3-hyb-12-0-p-12-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>124380.86 TRY</g:price>
+      <g:price>129600.00 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4756,7 +4357,7 @@
       <g:description>Solax X3-HYB-15.0-P (G4 Pro) 15 kW trifaze hibrit inverter: 3 MPPT, 30 kWp PV, HV batarya, EPS 15 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-15-0-p-15-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1891/big_solax-x3-hyb-15-0-p-15-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>128758.46 TRY</g:price>
+      <g:price>130114.37 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4777,7 +4378,7 @@
       <g:description>Solax X3-HYB-4.0-P (G4 Pro) 4 kW trifaze hibrit inverter: 2 MPPT, 8 kWp PV, HV batarya, EPS 4 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-4-0-p-4-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1885/big_solax-x3-hyb-4-0-p-4-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>90002.30 TRY</g:price>
+      <g:price>93746.88 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4798,7 +4399,7 @@
       <g:description>Solax X3-HYB-5.0-P (G4 Pro) 5 kW trifaze hibrit inverter: 2 MPPT, 10 kWp PV, HV batarya, EPS 5 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-5-0-p-5-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1886/big_solax-x3-hyb-5-0-p-5-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>98757.50 TRY</g:price>
+      <g:price>103371.26 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4819,7 +4420,7 @@
       <g:description>Solax X3-HYB-6.0-P (G4 Pro) 6 kW trifaze hibrit inverter: 2 MPPT, 12 kWp PV, HV batarya, EPS 6 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-6-0-p-6-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1887/big_solax-x3-hyb-6-0-p-6-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>102387.46 TRY</g:price>
+      <g:price>107118.14 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4840,7 +4441,7 @@
       <g:description>Solax X3-HYB-8.0-P (G4 Pro) 8 kW trifaze hibrit inverter: 3 MPPT, 16 kWp PV, HV batarya, EPS 8 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hyb-8-0-p-8-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1888/big_solax-x3-hyb-8-0-p-8-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>107832.38 TRY</g:price>
+      <g:price>113143.10 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4861,7 +4462,7 @@
       <g:description>Solax X3-Hybrid-10.0 (G4) 10 kW trifaze hibrit inverter: 2 MPPT, 20 kWp PV, 120–800 V HV batarya, EPS 10 kVA (tepe 18,0 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hybrid-10-0-10-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1882/big_solax-x3-hybrid-10-0-10-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>95673.60 TRY</g:price>
+      <g:price>97200.00 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4924,7 +4525,7 @@
       <g:description>Solax X3-Hybrid-5.0 (G4) 5 kW trifaze hibrit inverter: 2 MPPT, 10 kWp PV, 120–800 V HV batarya, EPS 5 kVA (tepe 12,0 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hybrid-5-0-5-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1879/big_solax-x3-hybrid-5-0-5-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>80332.42 TRY</g:price>
+      <g:price>94848.77 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4945,7 +4546,7 @@
       <g:description>Solax X3-Hybrid-6.0 (G4) 6 kW trifaze hibrit inverter: 2 MPPT, 12 kWp PV, 120–800 V HV batarya, EPS 6 kVA (tepe 12,0 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hybrid-6-0-6-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1880/big_solax-x3-hybrid-6-0-6-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>94379.90 TRY</g:price>
+      <g:price>96318.14 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4966,7 +4567,7 @@
       <g:description>Solax X3-Hybrid-8.0 (G4) 8 kW trifaze hibrit inverter: 2 MPPT, 16 kWp PV, 120–800 V HV batarya, EPS 8 kVA (tepe 18,0 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-hybrid-8-0-8-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1881/big_solax-x3-hybrid-8-0-8-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>99611.71 TRY</g:price>
+      <g:price>100653.12 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -4987,7 +4588,7 @@
       <g:description>Solax X3-IES-10K all-in-one depolama seti: 10 kW trifaze hibrit inverter + TBMS-MCS0800E BMS + 2× TP-HS50E (10,2 kWh). EPS yedek güç, IP66.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-ies-10k-10-2-kwh-all-in-one-enerji-depolama-seti</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2042/big_solax-x3-ies-10k-10-2-kwh-all-in-one-enerji-depolama-seti.png</g:image_link>
-      <g:price>371434.18 TRY</g:price>
+      <g:price>389480.26 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5029,7 +4630,7 @@
       <g:description>Solax X3-IES-12K: 12 kW trifaze X3-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %98 verim, IP66.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-ies-12k-12-kw-trifaze-all-in-one-enerji-depolama-sistemi</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1920/big_solax-x3-ies-12k-inverter-unitesi.png</g:image_link>
-      <g:price>143458.56 TRY</g:price>
+      <g:price>144146.88 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5050,7 +4651,7 @@
       <g:description>Solax X3-IES-15K all-in-one depolama seti: 15 kW trifaze hibrit inverter + TBMS-MCS0800E BMS + 3× TP-HS50E (15,3 kWh). EPS yedek güç, IP66.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-ies-15k-15-3-kwh-all-in-one-enerji-depolama-seti</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2043/big_solax-x3-ies-15k-15-3-kwh-all-in-one-enerji-depolama-seti.png</g:image_link>
-      <g:price>505319.04 TRY</g:price>
+      <g:price>523365.12 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5092,7 +4693,7 @@
       <g:description>Solax X3-IES-5K: 5 kW trifaze X3-IES hibrit inverter ünitesi. TP-HS50E batarya ve TBMS-MCS0800E BMS dahil değil, ayrı satılır. %98 verim, IP66.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-ies-5k-5-kw-trifaze-all-in-one-enerji-depolama-sistemi</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1916/big_solax-x3-ies-5k-inverter-unitesi.png</g:image_link>
-      <g:price>104273.28 TRY</g:price>
+      <g:price>114171.26 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5155,7 +4756,7 @@
       <g:description>Solax X3-MIC-10K-G2: 10 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 20 kWp, IP66, 17,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-10k-g2-10-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1853/big_solax-x3-mic-10k-g2-10-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>47116.22 TRY</g:price>
+      <g:price>58408.13 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5176,7 +4777,7 @@
       <g:description>Solax X3-MIC-12K-G2: 12 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 24 kWp, IP66, 18,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-12k-g2-12-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1854/big_solax-x3-mic-12k-g2-12-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>58827.46 TRY</g:price>
+      <g:price>60685.63 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5197,7 +4798,7 @@
       <g:description>Solax X3-MIC-15K-G2: 15 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 30 kWp, IP66, 18,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-15k-g2-15-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1855/big_solax-x3-mic-15k-g2-15-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>61069.25 TRY</g:price>
+      <g:price>62963.14 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5218,7 +4819,7 @@
       <g:description>Solax X3-MIC-3K-G2: 3 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 6 kWp, IP66, 15,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-3k-g2-3-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1848/big_solax-x3-mic-3k-g2-3-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>45801.79 TRY</g:price>
+      <g:price>46138.75 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5239,7 +4840,7 @@
       <g:description>Solax X3-MIC-4K-G2: 4 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 8 kWp, IP66, 15,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-4k-g2-4-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1849/big_solax-x3-mic-4k-g2-4-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>46549.44 TRY</g:price>
+      <g:price>46873.73 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5260,7 +4861,7 @@
       <g:description>Solax X3-MIC-5K-G2: 5 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 10 kWp, IP66, 15,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-5k-g2-5-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1850/big_solax-x3-mic-5k-g2-5-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>47510.21 TRY</g:price>
+      <g:price>48783.74 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5281,7 +4882,7 @@
       <g:description>Solax X3-MIC-6K-G2: 6 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 12 kWp, IP66, 15,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-6k-g2-6-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1851/big_solax-x3-mic-6k-g2-6-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>49859.14 TRY</g:price>
+      <g:price>50179.39 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5302,7 +4903,7 @@
       <g:description>Solax X3-MIC-8K-G2: 8 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 16 kWp, IP66, 17,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-mic-8k-g2-8-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1852/big_solax-x3-mic-8k-g2-8-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>53061.70 TRY</g:price>
+      <g:price>53559.36 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5323,7 +4924,7 @@
       <g:description>Solax X3-NEO-LV-10.0k 10 kW trifaze hibrit inverter: 2 MPPT, 20 kWp PV, 40–60 V LV batarya, EPS 10 kVA (tepe 20 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-neo-lv-10-0k-10-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1876/big_solax-x3-neo-lv-10-0k-10-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>114020.35 TRY</g:price>
+      <g:price>124089.98 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5344,7 +4945,7 @@
       <g:description>Solax X3-NEO-LV-12.0k 12 kW trifaze hibrit inverter: 2 MPPT, 24 kWp PV, 40–60 V LV batarya, EPS 12 kVA (tepe 24 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-neo-lv-12-0k-12-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1877/big_solax-x3-neo-lv-12-0k-12-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>127910.02 TRY</g:price>
+      <g:price>140253.12 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5365,7 +4966,7 @@
       <g:description>Solax X3-NEO-LV-15.0k 15 kW trifaze hibrit inverter: 2 MPPT, 30 kWp PV, 40–60 V LV batarya, EPS 15 kVA (tepe 30 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-neo-lv-15-0k-15-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1878/big_solax-x3-neo-lv-15-0k-15-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>141696.58 TRY</g:price>
+      <g:price>145469.38 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5386,7 +4987,7 @@
       <g:description>Solax X3-NEO-LV-5.0k 5 kW trifaze hibrit inverter: 2 MPPT, 10 kWp PV, 40–60 V LV batarya, EPS 5 kVA (tepe 10 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-neo-lv-5-0k-5-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1874/big_solax-x3-neo-lv-5-0k-5-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>103655.23 TRY</g:price>
+      <g:price>113730.62 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5407,7 +5008,7 @@
       <g:description>Solax X3-NEO-LV-8.0k 8 kW trifaze hibrit inverter: 2 MPPT, 16 kWp PV, 40–60 V LV batarya, EPS 8 kVA (tepe 16 kVA, 10 sn), IP65. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-neo-lv-8-0k-8-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1875/big_solax-x3-neo-lv-8-0k-8-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>110599.49 TRY</g:price>
+      <g:price>121298.11 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5423,33 +5024,12 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>x3-pcab-750-453c7179</g:id>
-      <g:title>Solax X3-PCAB-750 750 kW Trifaze AC Anahtarlama (Switching) Kabini, On/Off-Grid, Entegre EMS</g:title>
-      <g:description>Solax X3-PCAB-750: TRENE/AELIO ticari depolama sistemleri için 750 kW AC anahtarlama (on/off-grid geçiş) kabini; entegre EMS1000 PRO, IP55, 1600 A kesici.</g:description>
-      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/all-in-one-hibrit-sistem/solax-x3-pcab-750-ticari-optik-depolama-pv-batarya-kabin-sistemi</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1947/big_solax-x3-pcab-750-ac-anahtarlama-kabini.png</g:image_link>
-      <g:price>1443885.70 TRY</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Solax</g:brand>
-      <g:mpn>X3-PCAB-750</g:mpn>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Storage Batteries</g:google_product_category>
-      <g:shipping_weight>5 kg</g:shipping_weight>
-      <g:shipping_label>agir_batarya</g:shipping_label>
-      <g:shipping>
-        <g:country>TR</g:country>
-        <g:service>Standart Kargo (alıcı öder)</g:service>
-        <g:price>380 TRY</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>x3-pro-10k-g2-638a3fe3</g:id>
       <g:title>Solax X3-PRO-10K-G2 10 kW Trifaze On-Grid Solar Inverter</g:title>
       <g:description>Solax X3-PRO-10K-G2: 10 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,2, maks. önerilen PV 15,0 kWp, IP66, 24,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-10k-g2-10-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1821/big_solax-x3-pro-10k-g2.png</g:image_link>
-      <g:price>67368.38 TRY</g:price>
+      <g:price>68546.88 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5470,7 +5050,7 @@
       <g:description>Solax X3-PRO-12K-G2: 12 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,2, maks. önerilen PV 18,0 kWp, IP66, 24,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-12k-g2-12-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1857/big_solax-x3-pro-12k-g2-12-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>69610.75 TRY</g:price>
+      <g:price>72367.49 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5491,7 +5071,7 @@
       <g:description>Solax X3-PRO-15K-G2: 15 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 22,5 kWp, IP66, 26,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-15k-g2-15-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1858/big_solax-x3-pro-15k-g2-15-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>72493.06 TRY</g:price>
+      <g:price>75379.39 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5512,7 +5092,7 @@
       <g:description>Solax X3-PRO-17K-G2: 17 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,3, maks. önerilen PV 25,5 kWp, IP66, 26,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-17k-g2-17-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1859/big_solax-x3-pro-17k-g2-17-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>74735.42 TRY</g:price>
+      <g:price>77656.90 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5554,7 +5134,7 @@
       <g:description>Solax X3-PRO-25K-G2: 25 kW trifaze on-grid string inverter, 3 MPPT, maks. verim %98,5, maks. önerilen PV 37,5 kWp, IP66, 28,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-25k-g2-25-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1861/big_solax-x3-pro-25k-g2-25-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>91283.90 TRY</g:price>
+      <g:price>91395.65 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5575,7 +5155,7 @@
       <g:description>Solax X3-PRO-30K-G2: 30 kW trifaze on-grid string inverter, 3 MPPT, maks. verim %98,5, maks. önerilen PV 45,0 kWp, IP66, 28,0 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-30k-g2-30-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1862/big_solax-x3-pro-30k-g2-30-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>97049.09 TRY</g:price>
+      <g:price>97053.12 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5596,7 +5176,7 @@
       <g:description>Solax X3-PRO-8K-G2: 8 kW trifaze on-grid string inverter, 2 MPPT, maks. verim %98,2, maks. önerilen PV 12,0 kWp, IP66, 24,5 kg.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x3-pro-8k-g2-8-kw-trifaze-on-grid-solar-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1856/big_solax-x3-pro-8k-g2-8-kw-trifaze-on-grid-solar-inverter.png</g:image_link>
-      <g:price>64912.90 TRY</g:price>
+      <g:price>66122.50 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5617,7 +5197,7 @@
       <g:description>Solax X3-ULT-15K (X3-ULTRA) 15 kW trifaze hibrit inverter: 2 MPPT, 30 kWp PV, 2 HV batarya girişi, EPS 15 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-ult-15k-15-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1892/big_solax-x3-ult-15k-15-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>159006.53 TRY</g:price>
+      <g:price>162881.86 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5638,7 +5218,7 @@
       <g:description>Solax X3-ULT-20K (X3-ULTRA) 20 kW trifaze hibrit inverter: 2 MPPT, 40 kWp PV, 2 HV batarya girişi, EPS 20 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-ult-20k-20-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1893/big_solax-x3-ult-20k-20-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>166988.16 TRY</g:price>
+      <g:price>171624.38 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5659,7 +5239,7 @@
       <g:description>Solax X3-ULT-25K (X3-ULTRA) 25 kW trifaze hibrit inverter: 3 MPPT, 50 kWp PV, 2 HV batarya girişi, EPS 25 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-ult-25k-25-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1894/big_solax-x3-ult-25k-25-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>181499.90 TRY</g:price>
+      <g:price>184481.86 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5680,7 +5260,7 @@
       <g:description>Solax X3-ULT-30K (X3-ULTRA) 30 kW trifaze hibrit inverter: 3 MPPT, 60 kWp PV, 2 HV batarya girişi, EPS 30 kVA (tepe 2 kat, 10 sn), IP66. Batarya hariç.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/hibrit-inverterler/solax-x3-ult-30k-30-kw-trifaze-hibrit-inverter</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1895/big_solax-x3-ult-30k-30-kw-trifaze-hibrit-inverter.png</g:image_link>
-      <g:price>197670.53 TRY</g:price>
+      <g:price>203436.86 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
