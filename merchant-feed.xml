@@ -3138,7 +3138,7 @@
       <g:title>Solax M1-40 Monofaze Akilli Enerji Sayaci</g:title>
       <g:description>Solax M1-40 monofaze akıllı enerji sayacı; 100 A/40 mA CT dahil, RS485/Wi-BR, uyumlu Solax monofaze inverterlerde sıfır besleme ve export kontrolü.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/solar-malzemeler/solax-m1-40-monofaze-akilli-enerji-sayaci</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1941/big_solax-m1-40-monofaze-akilli-enerji-sayaci.png</g:image_link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1941/big_solax-m1-40-monofaze-akilli-enerji-sayaci-v2.png</g:image_link>
       <g:price>5816.73 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
@@ -3874,7 +3874,7 @@
       <g:description>Solax X1-Micro 1200 balkon GES seti (öz tüketim): 1,2 kW mikro inverter, ECC, 100 A CT&apos;li M1-40 sayaç ve 5 m AC kablo. Sıfır besleme için gereken parçalar bir arada.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-micro-1200-oz-tuketim-seti-ecc-m1-40-sayac</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2045/big_solax-x1-micro-1200-oz-tuketim-seti.png</g:image_link>
-      <g:price>29331.83 TRY</g:price>
+      <g:price>31587.81 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3937,7 +3937,7 @@
       <g:description>Solax X1-Micro 1500 balkon GES seti (öz tüketim): 1,5 kW mikro inverter, ECC, 100 A CT&apos;li M1-40 sayaç ve 5 m AC kablo. Sıfır besleme için gereken parçalar bir arada.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-micro-1500-oz-tuketim-seti-ecc-m1-40-sayac</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2046/big_solax-x1-micro-1500-oz-tuketim-seti.png</g:image_link>
-      <g:price>30684.38 TRY</g:price>
+      <g:price>33044.59 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -3999,7 +3999,7 @@
       <g:title>Solax X1-Micro 2000 2 kW Monofaze Mikro Inverter</g:title>
       <g:description>Solax X1-Micro 2000: X1-Micro 4 in 1 serisi 2000 VA monofaze on-grid mikro inverter; 4 MPPT (22–60 V), giriş başına maks. 18 A, dahili Wi-Fi, IP67.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-micro-2000-2-kw-monofaze-mikro-inverter</g:link>
-      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1830/big_solax-x1-micro-2000-2-kw-monofaze-mikro-inverter.png</g:image_link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/1830/big_solax-x1-micro-2000-4-in-1-mikro-inverter.png</g:image_link>
       <g:price>16449.45 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
@@ -4063,7 +4063,7 @@
       <g:description>Solax X1-Micro 2200 balkon GES seti (öz tüketim): 2,2 kW mikro inverter, ECC, 100 A CT&apos;li M1-40 sayaç ve 5 m AC kablo. Sıfır besleme için gereken parçalar bir arada.</g:description>
       <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverterler--invertor/solax-x1-micro-2200-oz-tuketim-seti-ecc-m1-40-sayac</g:link>
       <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2048/big_solax-x1-micro-2200-oz-tuketim-seti.png</g:image_link>
-      <g:price>33896.19 TRY</g:price>
+      <g:price>36503.42 TRY</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Solax</g:brand>
@@ -5853,6 +5853,27 @@
       <g:condition>new</g:condition>
       <g:brand>Solis</g:brand>
       <g:mpn>Solis-3P10K-4G-DC</g:mpn>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
+      <g:shipping_weight>15 kg</g:shipping_weight>
+      <g:shipping_label>agir_inverter</g:shipping_label>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo (alıcı öder)</g:service>
+        <g:price>615 TRY</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>s5-gc110k-5g-f08188b1</g:id>
+      <g:title>Solis 110 kW Three Phase String Inverter</g:title>
+      <g:description>Solis 110 kW Tri Faz (Üç Faz) On-Grid String İnverter, güneş panellerinden üretilen DC elektriği yüksek verimle AC elektriğe çevirerek şebekeye besler. Ticari…</g:description>
+      <g:link>https://www.turkiyesolarmarket.com.tr/urunler/inverter-markalari/solis/solis-110-kw-tri-faz-on-grid-inverter</g:link>
+      <g:image_link>https://www.turkiyesolarmarket.com.tr/epanel/upl/2037/big_solis-gc-110k.jpg</g:image_link>
+      <g:price>236797.75 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Solis</g:brand>
+      <g:mpn>S5-GC110K-5G</g:mpn>
       <g:identifier_exists>false</g:identifier_exists>
       <g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Power Inverters</g:google_product_category>
       <g:shipping_weight>15 kg</g:shipping_weight>
